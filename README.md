@@ -13,14 +13,11 @@
 * 🛠️ I have **7+ years** of experience as a **Network Engineer**, building stable and secure network infrastructures.
 * 💻 I have **3+ years** of experience as a **Software Engineer**, developing robust applications.
 * 🏭 I have **2 years** of industrial experience at **PT. Asahi Agung Abadi Mandiri** as a **Production Operator**, managing operational workflows and ensure high-quality standards.
-* 🎮 I'm a **Game Server Developer** on Roblox, managing and scripting for virtual worlds.
+* 🎮 I am the **Owner & Lead Developer** of the Roblox servers **Mount YH** and **Mount Velmorn**, which have successfully reached over **2,700,000+ total player visits**.
 * 🚀 I'm passionate about:
     * Advanced script optimization and server performance inside the **Roblox Engine**.
     * Network automation, security protocols, and system architecture.
     * Designing user-friendly interfaces and writing highly scalable full-stack code.
-* 🌍 I am the developer behind the Roblox maps:
-    * **Mount YH** — *Creating immersive experiences and advanced core gameplay mechanics.*
-    * **Mount Velmorn** — *Architecting rich environments and handling complex server management.*
 * ⚙️ Comfortable working with multiple environments, connecting robust network layers with back-end logic.
 * 📚 Lifelong learner who loves engineering complex systems from the ground up and sharing projects on GitHub.
 
